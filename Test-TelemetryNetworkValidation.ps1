@@ -1,6 +1,6 @@
 # ***************************************************************************
 #
-# Purpose: Script to Validate Endpoint avaliblilty for Autopilot. 
+# Purpose: Script to Validate Telemetry endpoint avaliblilty for Autopatch. 
 #
 # ------------- DISCLAIMER -------------------------------------------------
 # This script code is provided as is with no guarantee or waranty concerning
