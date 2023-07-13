@@ -1,6 +1,7 @@
 # ***************************************************************************
 #
 # Purpose: Script to Validate Telemetry endpoint avaliblilty for Autopatch. 
+# https://learn.microsoft.com/en-us/windows/privacy/configure-windows-diagnostic-data-in-your-organization
 #
 # ------------- DISCLAIMER -------------------------------------------------
 # This script code is provided as is with no guarantee or waranty concerning
